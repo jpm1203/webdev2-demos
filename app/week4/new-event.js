@@ -105,7 +105,7 @@ export default function NewEvent() {
               type="submit"
               className="w-full py-2 px-4 bg-sky-600 hover:bg-sky-500 rounded-md text-white"
             >
-              Create Event
+              Create Item
             </button>
           </form>
         </div>
